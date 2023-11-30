@@ -7,4 +7,10 @@ url: https://ayersdecker.github.io/Code-Blog/
 search_enabled: true
 
 aux_links:
-  Template Repository: https://github.com/ayersdecker/Code-Blog
+  "www.deckerayers.com":
+    - "wwww.deckerayers.com"
+  "Decker's Github":
+    - "//github.com/ayersdecker"
+
+
+
