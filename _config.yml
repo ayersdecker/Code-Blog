@@ -8,7 +8,7 @@ search_enabled: true
 
 aux_links:
   "www.deckerayers.com":
-    - "wwww.deckerayers.com"
+    - "//www.deckerayers.com"
   "Decker's Github":
     - "//github.com/ayersdecker"
 
