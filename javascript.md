@@ -2,6 +2,8 @@
 title: Javascript
 layout: default
 ---
+# Javascript
+JavaScript is a programming language that is used to add interactivity to web pages. It is a client-side language, which means that it is executed on the user's computer, not on the server. JavaScript can be used to create a variety of effects, such as animations, pop-ups, and form validation.
 
 ## Primative Types
 
