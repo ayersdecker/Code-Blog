@@ -3,7 +3,7 @@ title: C#
 layout: default
 ---
 
-# C#
+# **C#**
 An object-oriented, component-oriented programming language. C# provides language constructs to directly support these concepts, making C# a natural language in which to create and use software components. Since its origin, C# has added features to support new workloads and emerging software design practices. *-Microsoft*
 
 ## Basic Datatypes
