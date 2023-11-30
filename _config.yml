@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Code with Decker 
+description: Learn programming like I did!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://ayersdecker.github.io/Code-Blog/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://ayersdecker.github.io/Code-Blog/
