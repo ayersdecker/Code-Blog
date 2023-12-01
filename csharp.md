@@ -4,7 +4,20 @@ layout: default
 ---
 
 # **C#**
-An object-oriented, component-oriented programming language. C# provides language constructs to directly support these concepts, making C# a natural language in which to create and use software components. Since its origin, C# has added features to support new workloads and emerging software design practices. *-Microsoft*
+An object-oriented, component-oriented programming language. C# provides language constructs to directly support these concepts, making C# a natural language in which to create and use software components. Since its origin, C# has added features to support new workloads and emerging software design practices.  *-Microsoft*
+
+C# is used within a variety of ways, most commonly in Game Development like Unity, and  .NET Frameworks such as Xamarin, MAUI, UWP, ASP.NET. Syntactically, C# is akin to other popular languages like C/C++ and Java, but without the need to manage memory or difficult-to-gather packages. C# is a statically-typed language, meaning that the code must first run through a C# Compiler before it can run. This helps weed out major errors, and speeds up the performance of the final product. Being a high-level langauge, C# can do almost anything required for complex tasks, but is not as efficient when it comes writing scripts or small tasks. 
+
+Though not the most popular language on the market, there are still quite a few jobs hiring for .NET or game developers. If you are interested in building Desktop, Mobile, Web, PWAs, ML, or Gaming applications, C# is the language for you. 
+
+## Tools for Developing
+The recommended IDE for C# is [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)<br>
+Visual Studios is Microsoft's dedicated IDE for complex software development, and is best suited for developing C#, C/C++, and Python. It supports more languages as well, but not as well as these listed here.
+
+Alternatively, [Visual Studio Code](https://code.visualstudio.com/download) or [JetBrains Rider](https://www.jetbrains.com/rider/) will also provide great tools for C# development. IDE selection is mostly about supported features and personal preference. 
+
+.NET can be developed on Windows, MacOS, and popular Linux distributions such as Debian and Ubuntu. 
+
 
 ## Basic Datatypes
 
